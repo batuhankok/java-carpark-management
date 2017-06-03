@@ -43,19 +43,19 @@ end run
 - [Add New Car Screen], [Delete Car Screen], [Show Details Screen]
 
 ## Screenshot
-![Main](https://github.com/batuhankok/carpark-java/blob/master/screenshots/main.png?raw=true)
+![Main](https://github.com/batuhankok/java-carpark-management/blob/master/screenshots/main.png?raw=true)
 
 ## Contributers
 - [@ArdaKantarci] 
 - [@MustafaKaanAraz]
 
 
-[Main Screen]: https://github.com/batuhankok/carpark-java/blob/master/screenshots/main.png?raw=true
-[Personal Login Screen]: https://github.com/batuhankok/carpark-java/blob/master/screenshots/personal-login.png?raw=true
-[Add New Car Screen]: https://github.com/batuhankok/carpark-java/blob/master/screenshots/add-car.png?raw=true
-[Delete Car Screen]: https://github.com/batuhankok/carpark-java/blob/master/screenshots/delete-car.png?raw=true
-[Show Details Screen]: https://github.com/batuhankok/carpark-java/blob/master/screenshots/show-details.png?raw=true
-[Admin Authorization Screen]: https://github.com/batuhankok/carpark-java/blob/master/screenshots/admin-authorization.png?raw=true
+[Main Screen]: https://github.com/batuhankok/java-carpark-management/blob/master/screenshots/main.png?raw=true
+[Personal Login Screen]: https://github.com/batuhankok/java-carpark-management/blob/master/screenshots/personal-login.png?raw=true
+[Add New Car Screen]: https://github.com/batuhankok/java-carpark-management/blob/master/screenshots/add-car.png?raw=true
+[Delete Car Screen]: https://github.com/batuhankok/java-carpark-management/blob/master/screenshots/delete-car.png?raw=true
+[Show Details Screen]: https://github.com/batuhankok/java-carpark-management/blob/master/screenshots/show-details.png?raw=true
+[Admin Authorization Screen]: https://github.com/batuhankok/java-carpark-management/blob/master/screenshots/admin-authorization.png?raw=true
 [@ArdaKantarci]: https://tr.linkedin.com/in/arda-kantarcı-88481a10b
 [@MustafaKaanAraz]: https://twitter.com/kaannaraz
 [(Kadir Has University)]: https://twitter.com/khasedutr
