@@ -56,6 +56,6 @@ end run
 [Delete Car Screen]: https://github.com/batuhankok/java-carpark-management/blob/master/screenshots/delete-car.png?raw=true
 [Show Details Screen]: https://github.com/batuhankok/java-carpark-management/blob/master/screenshots/show-details.png?raw=true
 [Admin Authorization Screen]: https://github.com/batuhankok/java-carpark-management/blob/master/screenshots/admin-authorization.png?raw=true
-[@ArdaKantarci]: https://tr.linkedin.com/in/arda-kantarcı-88481a10b
+[@ArdaKantarci]: https://github.com/ardakantrci
 [@MustafaKaanAraz]: https://twitter.com/kaannaraz
 [(Kadir Has University)]: https://twitter.com/khasedutr
